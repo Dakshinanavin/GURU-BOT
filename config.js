@@ -1,9 +1,9 @@
-import { watchFile, unwatchFile } from 'fs'
+oimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [['917605902011', 'GURU', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
+global.owner = [['94774280298', 'dasee', true], ['94774280298', 'naveen', true], ['']] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
@@ -53,9 +53,9 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'dasee bot'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
+global.packname = 'dasee bot'
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
